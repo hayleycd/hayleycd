@@ -5,7 +5,7 @@
 
 [Email](mailto:hayley.denbraver@gmail.com)
 
-[Twitter](https://www.twitter.com/hayleydenb) (On social media break until beginning of 2020)
+[Twitter](https://www.twitter.com/hayleydenb)
 
 [Dev.to](https://dev.to/hayleydenb)
 
