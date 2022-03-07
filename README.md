@@ -1,7 +1,5 @@
 ## Hi, I am Hayley Denbraver :wave:
 
-I work as a Developer Advocate for [Alef Edge](https://developer.alefedge.com/).
-
 ### Contact
 [Linked In](https://www.linkedin.com/in/hayleydenbraverpe) :computer:
 [Email](mailto:hayley.denbraver@gmail.com) 💌
