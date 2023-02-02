@@ -1,1 +1,11 @@
-theme: minima
+title: Hayley Denbraver
+description: My Personal Page
+baseurl: "/hayleycd"
+
+markdown: kramdown
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+
+aux_links:
+  "Find me on Twitter":
+    - https://www.twitter.com/hayleydenb
