@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 # Hayley Denbraver
 {: .no_toc }
 
