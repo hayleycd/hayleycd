@@ -23,6 +23,8 @@ layout: home
 
 ## Career
 
+[Please see my work samples](samples.md)
+
 ## Education
 
 ## Contact
