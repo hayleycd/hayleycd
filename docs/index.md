@@ -27,8 +27,8 @@ nav_order: 1
 [Please see my work samples](samples.md)
 
 ### TECHNICAL WRITER, MAGNIT @ GOOGLE, ASSIGNED TO GOOGLE OPEN SOURCE SECURITY TEAM, 2023 - PRESENT
-- Maintained documentation for Google sponsored open source projects including OSV.dev and OSV-Scanner
-- Developed and edited technical blog posts on a variety of security topics
+- Maintained documentation for Google sponsored open source projects including [OSV.dev](https://google.github.io/osv.dev) and [OSV-Scanner](https://google.github.io/osv-scanner)
+- Developed and edited [technical blog posts](https://hayleycd.github.io/hayleycd/samples/#writing) on a variety of security topics
 - Interviewed subject matter experts to identify and clarify critical information to share in documentation and blog posts
 - Mentored technical writing team members in the use of Git and GitHub
 - Responded to developer feedback and questions through GitHub issues
@@ -43,7 +43,7 @@ nav_order: 1
 ### DEVELOPER ADVOCATE, SNYK, REMOTE 2019-2020
 - Managed, curated, and promoted the company blog resulting in a 50% growth in readership
 - Provided feedback and assistance to teammates on their writing projects
-- Developed, wrote, and delivered creative conference talks
+- Developed, wrote, and delivered [creative conference talks](https://hayleycd.github.io/hayleycd/samples/#speaking)
 - Met with developers in conference settings to gather feedback and address security pain points
 - Worked with developer communities at partner companies, writing guest blogs, promoting integrations, and hosting webinars
 
