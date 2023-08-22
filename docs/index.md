@@ -6,10 +6,10 @@ nav_order: 1
 
 # Hayley Denbraver, Technical Writer
 
-[Samples](https://hayleycd.github.io/hayleycd)
-[LinkedIn](https://www.linkedin.com/in/hayleydenbraverpe/)
-[GitHub](https://github.com/hayleycd)
-[hayley.denbraver@gmail.com](mailto:hayley.denbraver@gmail.com)
+[Samples](https://hayleycd.github.io/hayleycd)  
+[LinkedIn](https://www.linkedin.com/in/hayleydenbraverpe/)  
+[GitHub](https://github.com/hayleycd)  
+[hayley.denbraver@gmail.com](mailto:hayley.denbraver@gmail.com)  
 
 
 ## Experience
