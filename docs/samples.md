@@ -5,19 +5,10 @@ permalink: /samples/
 nav_order: 2
 ---
 # Work samples
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## Writing
 While contracting with the Google Open Source Security Team, I worked with team members to develop ideas for their blog posts. I would interview the authors, create an outline for the post and work with the authors on a series of drafts and revisions. Here are my favorite pieces:
+
 - [AI-Powered Fuzzing: Breaking the Bug Hunting Barrier](https://security.googleblog.com/2023/08/ai-powered-fuzzing-breaking-bug-hunting.html)
 - Supply chain security for Go series
    - [Part 1: Vulnerability management](https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html)
