@@ -4,27 +4,15 @@ layout: home
 nav_order: 1
 ---
 
-# Hayley Denbraver
-{: .no_toc }
+# Hayley Denbraver, Technical Writer
 
-<details open markdown="block">
-  <summary>
-    About Me
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+[Samples](https://hayleycd.github.io/hayleycd)
+[LinkedIn](https://www.linkedin.com/in/hayleydenbraverpe/)
+[GitHub](https://github.com/hayleycd)
+[hayley.denbraver@gmail.com](mailto:hayley.denbraver@gmail.com)
 
-~ Work in Progress ~
 
-## Background Information
-
-## Aspiration
-
-## Career
-
-[Please see my work samples](samples.md)
+## Experience
 
 ### TECHNICAL WRITER, MAGNIT @ GOOGLE, ASSIGNED TO GOOGLE OPEN SOURCE SECURITY TEAM, 2023 - PRESENT
 - Maintained documentation for Google sponsored open source projects including [OSV.dev](https://google.github.io/osv.dev) and [OSV-Scanner](https://google.github.io/osv-scanner)
@@ -54,8 +42,5 @@ nav_order: 1
 - Specialized in research and documentation tickets
 
 ## Education
-University of California, San Diego - MS Structural Engineering
-University of the Pacific, Stockton CA - BS Civil Engineering, Summa Cum Laude
-
-## Contact
-hayley.denbraver@gmail.com
+University of California, San Diego - MS Structural Engineering  
+University of the Pacific, Stockton CA - BS Civil Engineering, Summa Cum Laude  
