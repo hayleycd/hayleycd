@@ -32,5 +32,5 @@ Here are a few other pieces of writing from over the years:
 ## Code
 In Case of Emergency: 2020 Dev.to x Twilio Hackathon runner up
   - [Project repository](https://github.com/hayleycd/in_case_of_emergency)
-  - [Documentation](https://hayleycd.github.io)
+  - [Documentation](https://hayleycd.github.io/in_case_of_emergency/)
   - [Dev.to blog](https://dev.to/hayleydenb/flexible-and-extensible-emergency-contact-information-with-twilio-and-azure-functions-kom)
