@@ -6,7 +6,7 @@ nav_order: 1
 
 # Hayley Denbraver, Technical Writer
 
-[Samples](https://hayleycd.github.io/hayleycd)  
+[Samples](https://hayleycd.github.io/hayleycd/samples)  
 [LinkedIn](https://www.linkedin.com/in/hayleydenbraverpe/)  
 [GitHub](https://github.com/hayleycd)  
 [hayley.denbraver@gmail.com](mailto:hayley.denbraver@gmail.com)  
@@ -14,9 +14,17 @@ nav_order: 1
 
 ## Experience
 
-### TECHNICAL WRITER, MAGNIT @ GOOGLE, ASSIGNED TO GOOGLE OPEN SOURCE SECURITY TEAM, 2023 - PRESENT
+### FREELANCE TECHNICAL WRITER, SEATTLE WA, 2024-PRESENT
+#### FEATURED PROJECT: [SIGSTORE](www.sigstore.dev)
+- Works directly with the Sigstore team to modernize their documentation
+- Meets with maintainer team to discuss priorities/project direction
+- Collaborates with wider Sigstore contributor and maintainer community through GitHub issues, the project’s slack channel, and pull request reviews
+- Created a new documentation section to feature [language client](https://docs.sigstore.dev/language_clients/language_client_overview/) libraries
+- Tested and confirmed behavior of the CI tooling and wrote a [quickstart](https://docs.sigstore.dev/quickstart/quickstart-ci/) for using Sigstore in a project's CI/CD pipeline 
+
+### CONTRACT TECHNICAL WRITER, MAGNIT @ GOOGLE, ASSIGNED TO GOOGLE OPEN SOURCE SECURITY TEAM (GOSST), 2023
 - Maintained documentation for Google sponsored open source projects including [OSV.dev](https://google.github.io/osv.dev) and [OSV-Scanner](https://google.github.io/osv-scanner)
-- Developed and edited [technical blog posts](https://hayleycd.github.io/hayleycd/samples/#writing) on a variety of security topics
+- Developed and edited [technical blog posts](https://hayleycd.github.io/hayleycd/samples/#writing) on a variety of security topics for open source project blogs, the Google Security blog, and the OpenSSF blog
 - Interviewed subject matter experts to identify and clarify critical information to share in documentation and blog posts
 - Mentored technical writing team members in the use of Git and GitHub
 - Responded to developer feedback and questions through GitHub issues
